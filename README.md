@@ -48,3 +48,42 @@ Let's go!
 - **Why?** Handles light bending through transparent materials.
 - **Options**: On and off.
 - **Impact**: Refraction adds realism but may require additional GPU power.
+
+- [V-Sync (Vertical Synchronization)](#v-sync-vertical-synchronization)
+
+## V-Sync (Vertical Synchronization)
+- **Why?** Synchronizes the frame rate of the game with the refresh rate of the monitor.
+- **Options**: On/Off.
+- **Impact**: Enabling V-Sync prevents screen tearing but may introduce input lag.
+
+## Resolution
+- **Why?** Determines the display resolution of the game.
+- **Options**: Common resolutions include 1920x1080 (Full HD), 2560x1440 (Quad HD), and 3840x2160 (4K).
+- **Impact**: Higher resolutions provide sharper visuals but require more GPU power.
+
+More about resolutions you can find here: [Common Game Resolutions](https://github.com/mativizo/common-game-resolutions)
+
+## Window Mode
+- **Why?** Defines how the game window appears on the screen.
+- **Options**: Fullscreen - The game occupies the entire screen. Windowed - The game runs in a resizable window. Borderless Window - Similar to windowed mode but without borders.
+- **Impact**: Fullscreen offers better performance, while windowed modes allow multitasking.
+
+## Frame Rate Limit
+- **Why?** Caps the maximum frame rate to a specific value.
+- **Options**: Customizable (e.g., 30 FPS, 60 FPS, 120 FPS).
+- **Impact**: Limiting the frame rate can reduce GPU load and prevent overheating.
+
+## Depth of Field (DoF)
+- **Why?** Simulates camera focus effects.
+- **Options**: Low, Medium, High, or Off.
+- **Impact**: Higher DoF adds realism but may affect performance.
+
+## Motion Blur
+- **Why?** Creates a blur effect during fast camera movements.
+- **Options**: On/Off.
+- **Impact**: Motion blur enhances cinematic feel but can be disabled for competitive games.
+
+## Anisotropic Filtering (AF)
+- **Why?** Improves texture clarity at oblique angles.
+- **Options**: Levels (e.g., 2x, 4x, 16x).
+- **Impact**: Higher AF settings enhance texture sharpness.

@@ -9,6 +9,13 @@ Which graphics settings should you include in your next game? Let's talk about c
 - [Screen Space Ambient Occlusion (SSAO)](#screen-space-ambient-occlusion-ssao)
 - [Bloom](#bloom)
 - [Refraction](#refraction)
+- [V-Sync (Vertical Synchronization)](#v-sync-vertical-synchronization)
+- [Resolution](#resolution)
+- [Window Mode](#window-mode)
+- [Frame Rate Limit](#frame-rate-limit)
+- [Depth of Field (DoF)](#depth-of-field-dof)
+- [Motion Blur](#motion-blur)
+- [Anisotropic Filtering (AF)](#anisotropic-filter-af)
 
 Let's go!
 
@@ -16,8 +23,6 @@ Let's go!
 - **Why?** Anti-aliasing reduces jagged edges (aliasing) on objects and textures.
 - **Options**: Common choices include FXAA, MSAA, TAA and off.
 - **Impact**: Higher AA settings improve visual quality but may reduce performance.
-
-
 
 ## Texture Quality
 - **Why?** Determines the resolution and detail of textures.
@@ -48,8 +53,6 @@ Let's go!
 - **Why?** Handles light bending through transparent materials.
 - **Options**: On and off.
 - **Impact**: Refraction adds realism but may require additional GPU power.
-
-- [V-Sync (Vertical Synchronization)](#v-sync-vertical-synchronization)
 
 ## V-Sync (Vertical Synchronization)
 - **Why?** Synchronizes the frame rate of the game with the refresh rate of the monitor.
